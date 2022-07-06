@@ -1,0 +1,16 @@
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\bin\Debug\quanlythuvienSachbaitaplon.exe.config
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\bin\Debug\quanlythuvienSachbaitaplon.exe
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\bin\Debug\quanlythuvienSachbaitaplon.pdb
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.csproj.AssemblyReference.cache
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.csproj.SuggestedBindingRedirects.cache
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.Properties.Resources.resources
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.csproj.GenerateResource.cache
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.csproj.CoreCompileInputs.cache
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.exe
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.pdb
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.giaodien.resources
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.dangnhap.resources
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\bin\Debug\Newtonsoft.Json.dll
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\bin\Debug\Newtonsoft.Json.xml
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.csproj.CopyComplete
+D:\winformC#\baitaplon\quanlythuvienSachbaitaplon\quanlythuvienSachbaitaplon\obj\Debug\quanlythuvienSachbaitaplon.giaodiennew.resources
